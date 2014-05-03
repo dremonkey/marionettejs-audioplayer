@@ -4,6 +4,7 @@
   "dependencies": {
     "animate-css": "git@github.com:daneden/animate.css.git#3.0.0",
     "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1",
+    "dancer": "git@github.com:jsantell/dancer.js.git",
     "es5-shim": "~2.1.0"
   }
 }

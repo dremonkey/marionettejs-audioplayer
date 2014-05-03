@@ -2,9 +2,6 @@
 
 module.exports = {
   jquery: '$',
-  // jquery: {
-  //   exports: 'global:$'
-  // },
   
   underscore: '_',
   
@@ -38,5 +35,9 @@ module.exports = {
       'backbone.wreqr': 'Backbone.Wreqr',
       'backbone.babysitter': 'Backbone.BabySitter'
     }
+  },
+
+  'three': {
+    exports: 'global:THREE' 
   }
 };

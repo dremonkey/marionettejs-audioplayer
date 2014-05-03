@@ -10,7 +10,9 @@ module.exports = {
       'jquery',
       'underscore',
       'backbone',
-      'backbone.marionette'
+      'backbone.marionette',
+      'dancer',
+      'three'
     ],
   },
   app: {
@@ -33,7 +35,8 @@ module.exports = {
         'backbone',
         'backbone.wreqr',
         'backbone.babysitter',
-        'backbone.marionette'
+        'backbone.marionette',
+        'dancer'
       ],
       external: null // Reset this here because it's not needed
     }

@@ -33,6 +33,9 @@
   "engines": {
     "node": ">=0.8.0"
   },
+  "browser": {
+    "dancer": "./app/components/dancer/dancer.js"
+  },
   "browserify-shim": "./config/shim.js",
   "browserify": {
     "transform": [

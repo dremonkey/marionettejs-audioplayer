@@ -16,7 +16,7 @@ module.exports = {
       base: [
         // Directories to serve static files from
         '.tmp',
-        'app',
+        'app'
       ]
     }
   }
